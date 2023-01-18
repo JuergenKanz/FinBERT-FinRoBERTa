@@ -1,2 +1,4 @@
 # FinBERT-FinRoBERTa
-FinBERT and FinRoBERTa for Mathematica
+FinBERT and FinRoBERTa for Mathematica for Financial sentiment analysis
+
+ 
